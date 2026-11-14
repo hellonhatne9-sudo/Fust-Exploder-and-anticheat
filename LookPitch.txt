@@ -1,0 +1,4 @@
+game:GetService("ReplicatedStorage").Fust.Remotes.LookPitch:FireServer(table.unpack({
+    [1] = -1,
+    [2] = 0,
+}))

@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").Fust.Remotes.MotionSync:FireServer({
+    ["hb"] = true,
+    ["sp"] = 197967,
+    ["ct"] = 19,
+})
